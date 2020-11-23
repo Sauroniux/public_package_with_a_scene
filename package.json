@@ -1,0 +1,13 @@
+{
+  "name": "com.sublime.cloudbuildbug_package",
+  "displayName": "Cloud Build Bug: Package",
+  "version": "0.0.0",
+  "unity": "2019.4",
+  "description": "A small example to demonstrate that the Cloud Build service throws an exception when including a scene in a package that is fetched from a remote url (eg a BitBucket repo).",
+  "keywords": [
+    "unity"
+  ],
+  "category": "Mobius",
+  "type": "library",
+  "hideInEditor": false
+}
